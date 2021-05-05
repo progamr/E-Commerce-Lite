@@ -1,3 +1,12 @@
 ### Git conventions and rules for the project:
    - ####Branch Naming
-   - wef
+   - Bug Fix
+     - `bugfix-name`
+   -  Hot Fix
+     - `hotfix-name`
+   -  Feature Branches
+     - `feature-name`
+   -  Experimental Branches
+     - `experimental-name`
+   -  WIP (work in progress) branches
+     - `wip-name`

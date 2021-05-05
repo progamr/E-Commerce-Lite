@@ -6,7 +6,7 @@ import {Content} from './Content';
 
 export const Layout = () => {
   return (
-      <div>
+      <div className="container-flex">
           <Header />
           <Content />
           <Footer />
